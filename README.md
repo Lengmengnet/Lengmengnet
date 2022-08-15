@@ -32,6 +32,11 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Для разработки каких сайтов подойдет WordPress?](https://lengmeng.net/blog/dlya-razrabotki-kakih-sajtov-podojdet-wordpress/)
+- [Как получить престижный сайт?](https://lengmeng.net/blog/kak-poluchit-prestizhnyj-sajt/)
+- [Что выбрать для сайта: шаблонный или уникальный дизайн?](https://lengmeng.net/blog/chto-vybrat-dlya-sajta-shablonnyj-ili-unikalnyj-dizajn/)
+- [Бэкап сайта](https://lengmeng.net/blog/bekap-sajta/)
+- [Какие бывают сайты?](https://lengmeng.net/blog/kakie-byvajut-sajty/)
 
 <!-- BLOG-POST-LIST:END -->
 
