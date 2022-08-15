@@ -54,14 +54,6 @@
 
 
 
-
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lengmengnet&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lengmengnet&show_icons=true" />
-</details>
-
 [website]: https://lengmeng.net/
 [linkedin]: https://www.linkedin.com/company/lengmeng/
 [instagram]: https://www.instagram.com/lengmengnet/
