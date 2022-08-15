@@ -32,23 +32,23 @@
 
 ### Our Services:
 <!-- SERVICES:START -->
-- [РАЗРАБОТКА САЙТОВ](https://lengmeng.net/sozdaniya-sajta/)
-- [РАЗРАБОТКА LANDING PAGE](https://lengmeng.net/landing-page/)
-- [МОБИЛЬНЫЕ ПРИЛОЖЕНИЯ](https://lengmeng.net/razrabotka-mobilnyh-prilozhenij/)
-- [SMM-ПРОДВИЖЕНИЕ](https://lengmeng.net/SMM/)
-- [КОНТЕКСТНАЯ РЕКЛАМА](https://lengmeng.net/kontekststnaya-reklama/)
-- [ДИЗАЙН САЙТОВ](https://lengmeng.net/dizajn-sajtov/)
-- [ЛОГОТИПЫ](https://lengmeng.net/logo/)
+- [WEBSITE DEVELOPMENT](https://lengmeng.net/sozdaniya-sajta/)
+- [LANDING PAGE DEVELOPMENT](https://lengmeng.net/landing-page/)
+- [MOBILE APPLICATIONS](https://lengmeng.net/razrabotka-mobilnyh-prilozhenij/)
+- [SMM PROMOTION](https://lengmeng.net/SMM/)
+- [CONTEXTUAL ADVERTISING](https://lengmeng.net/kontekststnaya-reklama/)
+- [WEBSITE DESIGN](https://lengmeng.net/dizajn-sajtov/)
+- [LOGOS](https://lengmeng.net/logo/)
 <!-- SERVICES:END -->
 
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Для разработки каких сайтов подойдет WordPress?](https://lengmeng.net/blog/dlya-razrabotki-kakih-sajtov-podojdet-wordpress/)
-- [Как получить престижный сайт?](https://lengmeng.net/blog/kak-poluchit-prestizhnyj-sajt/)
-- [Что выбрать для сайта: шаблонный или уникальный дизайн?](https://lengmeng.net/blog/chto-vybrat-dlya-sajta-shablonnyj-ili-unikalnyj-dizajn/)
-- [Бэкап сайта](https://lengmeng.net/blog/bekap-sajta/)
-- [Какие бывают сайты?](https://lengmeng.net/blog/kakie-byvajut-sajty/)
+- [What kind of websites is WordPress suitable for?](https://lengmeng.net/blog/dlya-razrabotki-kakih-sajtov-podojdet-wordpress/)
+- [How to get a prestigious website?](https://lengmeng.net/blog/kak-poluchit-prestizhnyj-sajt/)
+- [What to choose for the site: template or unique design?](https://lengmeng.net/blog/chto-vybrat-dlya-sajta-shablonnyj-ili-unikalnyj-dizajn/)
+- [Site backup](https://lengmeng.net/blog/bekap-sajta/)
+- [What are the sites?](https://lengmeng.net/blog/kakie-byvajut-sajty/)
 
 <!-- BLOG-POST-LIST:END -->
 
