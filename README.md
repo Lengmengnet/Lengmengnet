@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Arsen
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
 
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code 
